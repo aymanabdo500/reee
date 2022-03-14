@@ -1,0 +1,6 @@
+REEP/APP/LE.o REEP/APP/LE.o: ../REEP/APP/LE.c \
+  ../REEP/APP/../MCAL/DIO/DIO_Types.h ../REEP/APP/../MCAL/DIO/DIO.h
+
+../REEP/APP/../MCAL/DIO/DIO_Types.h:
+
+../REEP/APP/../MCAL/DIO/DIO.h:

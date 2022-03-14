@@ -1,0 +1,9 @@
+REEP/MCAL/DIO/DIO.o REEP/MCAL/DIO/DIO.o: ../REEP/MCAL/DIO/DIO.c \
+  ../REEP/MCAL/DIO/DIO_Reg.h ../REEP/MCAL/DIO/DIO_Types.h \
+  ../REEP/MCAL/DIO/Bit_Math.h
+
+../REEP/MCAL/DIO/DIO_Reg.h:
+
+../REEP/MCAL/DIO/DIO_Types.h:
+
+../REEP/MCAL/DIO/Bit_Math.h:
